@@ -7,6 +7,14 @@
 * A CI (Continuous Integration) script to demonstrate CI technique using GitHub Actions
 * ...
 
+## Screen-shorts
+
+### TDD, DDT test script with JUnit
+![TDD, DDT with JUnit Test](https://github.com/devbinhz/mathutil/blob/main/screenshorts/JUnit%20Testing.png)
+![MAVEN](https://github.com/devbinhz/mathutil/blob/main/screenshorts/Maven.png)
+
+### Maven builder to build .jar file
+
 ### Connect me via: binhdev46@gmail.com
 
 #### &#169; 2025 Bình
